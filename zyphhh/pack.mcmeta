@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "description": [
+            {"text": "⭐ ", "color": "gold"},
+            {"text": "Data Pack 1.21.11 - Zyph_011", "color": "yellow", "bold": true},
+            {"text": "│ ", "color": "dark_gray"},
+            {"text": "Datapack Activo", "color": "green", "italic": true}
+        ],
+        "pack_format": 94
+    }
+}

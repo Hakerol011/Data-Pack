@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "has_crafted_web": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "zyphhh:telarana"
+      }
+    }
+  },
+  "rewards": {
+    "function": "zyphhh:darte_velocidad"
+  }
+}
